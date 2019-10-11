@@ -1,4 +1,4 @@
-## 实验室 代号“夜域”
+## 夜域实验室
 
 You can use the [editor on GitHub](https://github.com/hxx4233/hxx4233.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
